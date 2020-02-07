@@ -1,0 +1,1 @@
+print("Hello, teacher! I'm really unhappy with all this settings stuff")
