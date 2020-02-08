@@ -27,7 +27,7 @@ print(mult)
 '''
 number = int(input())
 while number > 0:
-    print(integer_number % 10)
+    print(number % 10)
     number = number // 10
 '''
 
